@@ -1,6 +1,6 @@
 <!--------------------- Abomination Character Entries --------------------->
 
-new entry "Playable_M_Abomination"
+new entry "Playable_M_Automaton"
 type "Character"
 using "_Humanoid"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
@@ -8,7 +8,7 @@ data "GameSize" "Large"
 data "Weight" "135"
 data "StepsType" "Bare"
 
-new entry "Playable_F_Abomination"
+new entry "Playable_F_Automaton"
 type "Character"
 using "_Humanoid"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
