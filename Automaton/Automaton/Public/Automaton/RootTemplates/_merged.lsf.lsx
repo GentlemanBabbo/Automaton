@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="fbf1f797-3c09-493b-b852-0bc1f86c28a1" /> must be unique
-					<attribute id="Name" type="LSString" value="BASE_Main_Female_Abomination" />
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Automaton" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
