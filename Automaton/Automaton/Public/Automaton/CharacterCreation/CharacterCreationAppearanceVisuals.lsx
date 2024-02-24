@@ -10,9 +10,9 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="hfd66dd9egacedg4911ga505g7cd9f83d453b" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3a52098fgd404g4908g8921ga123324bb907" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
-					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					<attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
 					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="52669918-76e9-4f70-bcec-0888f8c9cbd1"/> <!--Unique UUID -->
