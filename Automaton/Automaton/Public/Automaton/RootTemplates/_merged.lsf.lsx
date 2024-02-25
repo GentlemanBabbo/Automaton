@@ -49,7 +49,7 @@
 					<attribute id="Name" type="LSString" value="Automaton_Female_Cog-Walker_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
+					<attribute id="ParentTemplateId" type="FixedString" value="fbf1f797-3c09-493b-b852-0bc1f86c28a1" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ebcf4c51-be61-4bd7-81c8-4cdb99454548" /> which models to load
@@ -76,7 +76,7 @@
 					<attribute id="Name" type="LSString" value="Automaton_Male_Cog-Walker_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="a367232e-95d4-41c8-b037-0aa597bb86c1" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f159c649-212d-4a3d-a719-8664437b96f2" /> which models to load
