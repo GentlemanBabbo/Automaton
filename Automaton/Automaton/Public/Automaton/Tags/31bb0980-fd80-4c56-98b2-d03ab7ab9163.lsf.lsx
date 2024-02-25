@@ -5,10 +5,10 @@
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM MAIN RACE|" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb92f2535g601eg4360g916bgc3a86bff0fa4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Custom_Main_Race" />
-			<attribute id="UUID" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
+			<attribute id="UUID" type="guid" value="31bb0980-fd80-4c56-98b2-d03ab7ab9163" />
 			<children>
 				<node id="Categories">
 					<children>
