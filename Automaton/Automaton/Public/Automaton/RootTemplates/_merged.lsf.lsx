@@ -76,7 +76,7 @@
 					<attribute id="Name" type="LSString" value="Automaton_Male_Cog-Walker_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="a367232e-95d4-41c8-b037-0aa597bb86c1" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f159c649-212d-4a3d-a719-8664437b96f2" /> which models to load
