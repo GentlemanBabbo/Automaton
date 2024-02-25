@@ -6,7 +6,7 @@
             <children>
 		<!--Heads-->
 		<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
-				<node id="CharacterCreationAppearanceVisual"> Chimera1M - A
+				<node id="CharacterCreationAppearanceVisual"> Automaton1A - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
@@ -17,6 +17,19 @@
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="52669918-76e9-4f70-bcec-0888f8c9cbd1"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="27389e08-f053-4812-85e8-150fa8c01388"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Automaton1B - A
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h044fbcdfgc283g4a68g8917gbbf81c87f1ca" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="5741b896-cc3d-46af-8041-742c985a508d"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="13d1d862-55a0-4016-9ee4-d385e9561d41"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 			<!-- RaceUUID so you can quickly replace the above with your desired race
