@@ -14525,9 +14525,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Body/AUTOMATON_M_Body/AUTOMATON_MS_NKD_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Body/AUTOMATON_M_Body/AUTOMATON_MS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Body/AUTOMATON_M_Body/AUTOMATON_MS_NKD_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Body/AUTOMATON_M_Body/AUTOMATON_MS_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241508" />
 					<children>
 						<node id="AnimationWaterfall">
