@@ -40,13 +40,22 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h43a69035gcd84g43cdga734gfcffb57def08" version="1" />
-					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					<attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="6f08c0f8-e691-4415-823b-e1ce75ab562c" /> <!-- must be unique -->
 					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
-		
+				<node id="CharacterCreationAppearanceVisual"> MS Hair A
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h1d66a238g672cg4a05g8e2ag7adb96d1fbf7" version="1" />
+					<attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="96d5dfcf-c20b-424f-87a9-43a7467dfc0b" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="1cb7cbc3-4fa2-47ff-893a-8c37a5ff2f55" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
             <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
