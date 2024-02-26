@@ -2463,8 +2463,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_C.5_AUTO_MS_NKD_Head_C_Eyeshadow_Mesh.4" />
+							<attribute id="MaterialID" type="FixedString" value="f8f12335-0d49-bb81-f9e1-a0955c5ddc24" />
+							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_C.5_AUTO_MS_NKD_Head_Flesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -2486,11 +2486,7 @@
 							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_C.9_AUTO_MS_NKD_Head_B_Tearline_Mesh.8" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f8f12335-0d49-bb81-f9e1-a0955c5ddc24" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_C.10_AUTO_MS_NKD_Head_Flesh.8" />
-						</node>
+
 					</children>
 				</node>
 			</children>
