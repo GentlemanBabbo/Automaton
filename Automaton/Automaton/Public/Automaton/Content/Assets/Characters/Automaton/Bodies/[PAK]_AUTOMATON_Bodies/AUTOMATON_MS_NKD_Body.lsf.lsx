@@ -14543,21 +14543,21 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
+							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_NKD_Body.2_AUTO_MS_NKD_Neck_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
+							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_NKD_Body.3_AUTO_MS_NKD_Pipes_Mesh.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
+							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_NKD_Body.4_AUTO_MS_NKD_Legs_A_Mesh.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
