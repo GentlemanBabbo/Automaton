@@ -14557,7 +14557,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
+							<attribute id="MaterialID" type="FixedString" value="ceff760d-6904-40bd-9a8d-8cf84993020f" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_NKD_Body.4_AUTO_MS_NKD_Legs_A_Mesh.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
