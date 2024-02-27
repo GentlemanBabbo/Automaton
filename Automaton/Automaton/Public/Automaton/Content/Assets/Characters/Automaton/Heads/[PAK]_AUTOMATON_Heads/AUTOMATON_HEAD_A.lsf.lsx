@@ -2458,7 +2458,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="dc88cac3-977f-0bcd-1a83-fda7a5184527" />
+							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.4_AUTO_MS_NKD_Head_D_Mechaparts.3" />
 						</node>
 						<node id="Objects">
@@ -2468,7 +2468,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="dc88cac3-977f-0bcd-1a83-fda7a5184527" />
+							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.6_AUTO_MS_NKD_Head_D_Faceparts.5" />
 						</node>
 						<node id="Objects">
