@@ -14536,7 +14536,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="dd234058-f5d0-dbf5-05ca-8da73aee2b4d"/>
+							<attribute id="MaterialID" type="FixedString" value="dc88cac3-977f-0bcd-1a83-fda7a5184527"/>
 							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_NKD_Body.1_AUTO_MS_NKD_Torso_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
