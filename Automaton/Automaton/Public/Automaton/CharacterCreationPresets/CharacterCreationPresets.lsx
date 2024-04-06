@@ -7,9 +7,9 @@
 				<node id="CharacterCreationPreset"> F
           <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="1"/>
-          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
-          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
-          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>
           <attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
           <attribute id="RootTemplate" type="guid" value="9f2c6a71-5046-46ad-ad01-30adea8a0104"/>
 					<attribute id="SubRaceUUID" type="guid" value="b1cd1985-2bec-48c2-8484-35dfa949d61d"/>
@@ -19,9 +19,9 @@
 				<node id="CharacterCreationPreset"> M
           <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="0"/>
-          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
-          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
-          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
           <attribute id="RaceUUID" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c"/>
           <attribute id="RootTemplate" type="guid" value="f8905c68-19d9-4527-baa5-8ca19d9d6696"/>
 					<attribute id="SubRaceUUID" type="guid" value="b1cd1985-2bec-48c2-8484-35dfa949d61d"/>
