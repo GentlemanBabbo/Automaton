@@ -41,10 +41,6 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Tail" />
-							<attribute id="VisualResource" type="FixedString" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3" />
-						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -138,10 +134,6 @@
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Tail" />
-							<attribute id="VisualResource" type="FixedString" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3" />
-						</node>
-						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="c7012761-0476-5caf-e759-727e40c608e4" />
@@ -199,10 +191,6 @@
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Tail" />
-							<attribute id="VisualResource" type="FixedString" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
