@@ -44,7 +44,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="BaseVisual" type="FixedString" value="7f96a865-11e1-8ad2-16dc-9a66621fbf75" />
 					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="da8c0a5b-aa7f-4a4a-8a26-739fa7450485" />
 					<attribute id="Localized" type="bool" value="False" />
@@ -74,7 +74,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
+					<attribute id="BaseVisual" type="FixedString" value="7f96a865-11e1-8ad2-16dc-9a66621fbf75" />
 					<attribute id="BodySetVisual" type="FixedString" value="e2138f96-ade7-4c4a-8fb6-9b58ad4a0bca" />
 					<attribute id="ID" type="FixedString" value="ebcf4c51-be61-4bd7-81c8-4cdb99454548" />
 					<attribute id="Name" type="LSString" value="Main_Female_Cog-Walker_Player_Strong" />
@@ -151,7 +151,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<attribute id="BaseVisual" type="FixedString" value="8b6061bf-f71c-9496-bd22-6b5eb1998ddc" />
 					<attribute id="BodySetVisual" type="FixedString" value="dc0eaf13-a6ce-41a6-b0f6-8d78c29b1946" />
 					<attribute id="ID" type="FixedString" value="f159c649-212d-4a3d-a719-8664437b96f2" />
 					<attribute id="Name" type="LSString" value="Main_Male_Cog-Walker_Player_Strong" />
