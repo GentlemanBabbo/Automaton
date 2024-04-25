@@ -10,14 +10,14 @@
 					<attribute id="ID" type="FixedString" value="a384b169-6f18-45c6-abe4-fd1c21d0ae5e" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Automaton_MS_Head_Base" />
+					<attribute id="Name" type="LSString" value="Automaton_M_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Head/AUTOMATON_HEAD_A/AUTOMATON_MS_Head_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Head/AUTOMATON_HEAD_A/Automaton_M_Head_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Head/AUTOMATON_HEAD_A/AUTOMATON_MS_Head_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_AUTOMATON_Head/AUTOMATON_HEAD_A/Automaton_M_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -2379,7 +2379,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="c4070e34-be65-4632-b61a-193bae3a33da" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Automaton_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="Automaton_M_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2414,16 +2414,16 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="27389e08-f053-4812-85e8-150fa8c01388" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AUTOMATON_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="AUTOMATON_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="babec9b3-10f1-aa06-3a16-b0ec90aef56c" />
+					<attribute id="SkeletonResource" type="FixedString" value="d4978564-c94a-dcf9-65af-c02a17b82ae0" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Head/AUTOMATON_MS_Head_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Head/Automaton_M_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Head/AUTOMATON_MS_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Automaton/[PAK]_AUTOMATON_Head/Automaton_M_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2443,43 +2443,43 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f8f12335-0d49-bb81-f9e1-a0955c5ddc24" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.1_AUTO_MS_NKD_Head_D_Remap_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="c8578c23-1e6b-24c5-a144-9c599aa31a45" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.1DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.2_AUTO_MS_NKD_Head_D_Remap_Mouth_Interior_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.2DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.3_AUTO_MS_NKD_Head_D_Remap_Eyes_Mesh.2" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.4_AUTO_MS_NKD_Head_D_Mechaparts.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.5_AUTO_MS_NKD_Head_D_EyeSockets.4" />
+							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.3DWR_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="a0077f85-237e-8d37-3ab2-b0053fa502f3" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.6_AUTO_MS_NKD_Head_D_Faceparts.5" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.4AUTOMN_M_Head_A_Mesh.042.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="26dd58c4-c073-1a74-1ae1-7b2018ebd900" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.7_AUTO_MS_NKD_Head_D_Brain.6" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.5DWR_M_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="840f4afc-eb73-9b0b-fb2d-23479e5cd75c" />
-							<attribute id="ObjectID" type="FixedString" value="AUTOMATON_MS_Head_A.8_AUTO_MS_NKD_Head_D_Glass.7" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.6DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.7DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="Automaton_M_Head_A.8DWR_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 					</children>
 				</node>
