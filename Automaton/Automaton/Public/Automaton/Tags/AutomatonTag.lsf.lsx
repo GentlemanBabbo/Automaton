@@ -4,11 +4,11 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM SUBRACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h1b2ed22bg7a4bg4111gb57agf8eae06e8ae1" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h83b42e17g4e5fg41bbga6ceg2031977b66a6" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb92f2535g601eg4360g916bgc3a86bff0fa4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Custom_Sub_Race" />
-			<attribute id="UUID" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
+			<attribute id="Name" type="FixedString" value="Automaton" />
+			<attribute id="UUID" type="guid" value="c2fbb610-4970-4346-8230-ea0c982d00f2" />
 			<children>
 				<node id="Categories">
 					<children>
