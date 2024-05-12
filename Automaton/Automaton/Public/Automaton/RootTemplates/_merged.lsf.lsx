@@ -11,7 +11,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b98a80f4-20dc-4666-9b5b-2993b38034ed" /> dwarf
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ebcf4c51-be61-4bd7-81c8-4cdb99454548" /> which models to load
-					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -34,7 +34,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="dcded019-b845-43a0-b91c-b853646218a1" /> dwarf
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f159c649-212d-4a3d-a719-8664437b96f2" /> which models to load
-					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="1cc11825-aa11-473f-9e20-b676208b0f6c" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -59,7 +59,7 @@
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ebcf4c51-be61-4bd7-81c8-4cdb99454548" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="b1cd1985-2bec-48c2-8484-35dfa949d61d" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Automaton" />
 					<children>
 						<node id="Tags">
@@ -82,7 +82,7 @@
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f159c649-212d-4a3d-a719-8664437b96f2" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="b1cd1985-2bec-48c2-8484-35dfa949d61d" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Automaton" />
 
 					<children>
