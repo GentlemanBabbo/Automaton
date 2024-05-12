@@ -4,11 +4,11 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM MAIN RACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="hb92f2535g601eg4360g916bgc3a86bff0fa4" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h40eedbeagf17ag4528gaf20g35f71bebc839" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h1b2ed22bg7a4bg4111gb57agf8eae06e8ae1" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Custom_Main_Race" />
-			<attribute id="UUID" type="guid" value="31bb0980-fd80-4c56-98b2-d03ab7ab9163" />
+			<attribute id="Name" type="FixedString" value="Cog-Walker" />
+			<attribute id="UUID" type="guid" value="1faf7e1e-5f65-41f8-a151-f40ca0b76859" />
 			<children>
 				<node id="Categories">
 					<children>
