@@ -16,7 +16,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="31bb0980-fd80-4c56-98b2-d03ab7ab9163" /> Custom Race tag
+									<attribute id="Object" type="guid" value="c2fbb610-4970-4346-8230-ea0c982d00f2" /> Custom Race tag
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-b6ef-a371794110c2" /> Construct tag
@@ -39,7 +39,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="31bb0980-fd80-4c56-98b2-d03ab7ab9163" /> Custom Race tag
+									<attribute id="Object" type="guid" value="c2fbb610-4970-4346-8230-ea0c982d00f2" /> Custom Race tag
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-b6ef-a371794110c2" /> Construct tag
