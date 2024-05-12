@@ -65,7 +65,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="1faf7e1e-5f65-41f8-a151-f40ca0b76859" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -89,7 +89,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="1faf7e1e-5f65-41f8-a151-f40ca0b76859" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
